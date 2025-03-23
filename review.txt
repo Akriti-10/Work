@@ -1,0 +1,3 @@
+"i am learning basic commands"
+18. git checkout -- <file>: Discards changes to a specific file. 
+git reset HEAD <file>: Removes a file from the staging area
