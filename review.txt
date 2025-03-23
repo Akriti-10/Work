@@ -2,3 +2,8 @@
 18. git checkout -- <file>: Discards changes to a specific file. 
 git reset HEAD <file>: Removes a file from the staging area
 git reset --hard <commit>: Resets your repository to a specific commit
+Now learning stash changes
+git stash>> Temporarily saves changes that you don't want to commit yet.
+git stash list>> listing stash saves
+git stash apply>> apply the latest stash
+git stash pop>> apply and remove the most recent stash
